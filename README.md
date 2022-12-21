@@ -1,2 +1,4 @@
-# image_download_tool
-Download Images from Links saved in a .csv file
+
+# Image Download Tool
+
+Download images using links saved in a .csv file, whether or not the website requires registration. The file must be saved as "links.csv", otherwise it will not be recognized.
